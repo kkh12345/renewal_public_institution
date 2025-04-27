@@ -97,7 +97,7 @@
 | section tap                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------- |
 
-![image](https://github.com/kkh12345/renewal_public_institution/blob/main/notice.gif)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/tap.gif)
 
 
 
