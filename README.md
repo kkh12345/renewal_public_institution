@@ -16,7 +16,7 @@
 
 | section y-top                                                                                                    |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/430769b0-d330-4e66-91b0-97cc7ed1a110)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/y-top.png)
 
 
 
@@ -28,11 +28,8 @@
 
 | 헤더                                                                                                    |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/c9fecf53-881d-43b5-9958-59bbd1b7db39)
-
-![image](https://github.com/user-attachments/assets/a4c02f94-fe04-48c8-951c-43ea9b0e6363)
-
-![image](https://github.com/user-attachments/assets/d1f28294-7a48-42ab-9431-891de24a07ba)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/mainvisual1.gif)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/mainvisual2.gif)
 
 
 
