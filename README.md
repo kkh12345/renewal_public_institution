@@ -28,8 +28,8 @@
 
 | 헤더                                                                                                    |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/renewal_public_institution/blob/main/mainvisual1.gif)
-![image](https://github.com/kkh12345/renewal_public_institution/blob/main/mainvisual2.gif)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/header.gif)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/header2.gif)
 
 
 
@@ -49,9 +49,8 @@
 
 | section main-visual                                                                                                 |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/030ccc25-a6be-4b66-84ef-61cbc5671d7c)
-![image](https://github.com/user-attachments/assets/c1d24d45-dca6-47f2-aa70-0b304470ea07)
-![image](https://github.com/user-attachments/assets/a9b85c67-e27b-455d-86d0-d376f71f6fae)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/mainvisual1.gif)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/mainvisual2.gif)
 
 
 
@@ -67,42 +66,25 @@
 
 | section support                                                                                                  |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/ee6e871b-d4bf-4c7e-9d1d-e1db07fd598d)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/support.png)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/recovery.png)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/day_of_eradication.png)
 
 
 
 ####   [ 주요 기능 ]
 * 스크롤 시 등장 애니메이션
 
-<br><br>
-
-| section recovery                                                                                                 |
-| :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/453d0ea9-233f-4ae3-bc15-1759e4f14092)
 
 
 
-
-####   [ 주요 기능 ]
-* 스크롤 시 등장 애니메이션
-
-<br><br>
-
-| section day_of_eradication                                                                                                 |
-| :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/4c5bc509-aed3-430a-89fa-07020fc38b96)
-
-
-
-####   [ 주요 기능 ]
-* 스크롤 시 등장 애니메이션
 
 <br><br>
 
 
 | section youtube                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/766cb1a0-b5a2-4bde-abda-e12a0a0625e4)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/youtube.png)
 
 
 
@@ -114,7 +96,8 @@
 
 | section tap                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/f14ff52b-8198-4ccb-bde9-d2a74b90087e)
+
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/notice.gif)
 
 
 
@@ -128,7 +111,7 @@
 
 | section social-icon                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/dbc69dbc-6b6f-486c-a714-99f740c99910)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/social_icon.png)
 
 
 
@@ -136,7 +119,7 @@
 
 | section related_organization                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/9aab5543-d1b3-4104-8a6f-43fc0705f387)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/related_organization.png)
 
 
 
@@ -150,31 +133,12 @@
 
 | footer                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/945b80aa-9903-4b04-9b0e-7ba8f5170be5)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/footer.gif)
 
 
 
 
 
-
-
-
-####   [ 주요 기능 ]
-* 유관기관 옵션 변경하면 이동 링크도 바뀜. 옵션 변경 후 이동버튼 클릭
-
-<br><br>
-
-| 기타                                                                                             |
-| :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/968fce7c-6ab8-43e2-9176-59c2e50f0870)
-
-
-
-
-####   [ 주요 기능 ]
-* TOP버튼 클릭하면 페이지 맨 위로 이동
-
-<br><br>
 
 
 >###  서브 페이지
@@ -183,8 +147,7 @@
 
 | 로그인,회원가입 페이지                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/7e67c5d2-2054-466d-8138-c34126329201)
-![image](https://github.com/user-attachments/assets/fa05461b-c7ce-471b-aea0-72f104d7c300)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/login.gif)
 
 
 
@@ -196,8 +159,7 @@
 
 | 공지사항 페이지                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/user-attachments/assets/b7e2f983-7d9f-49bc-a335-e92f3d14ebf0)
-![image](https://github.com/kkh12345/kkh1/blob/main/notice2.png)
+![image](https://github.com/kkh12345/renewal_public_institution/blob/main/notice.gif)
 
 
 ####   [ 주요 기능 ]
@@ -208,16 +170,7 @@
 
 
 
-| 태블릿                                                                                                |
-| :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh1/blob/main/tablet.png)
-<br><br>
 
-| 모바일                                                                                         |
-| :---------------------------------------------------------------------------------------------------------------------- |
-![image](https://github.com/kkh12345/kkh1/blob/main/mobile.png)
-
-<br><br>
   ##  개발 환경
 
 - 개발 환경 : <img src="https://img.shields.io/badge/windows11-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
